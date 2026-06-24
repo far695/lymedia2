@@ -21,38 +21,38 @@ export default function ContactPage() {
       {/* Contact Form and Info */}
       <section className="pb-24">
         <div className="container px-4 md:px-6">
-          <div className="bg-muted/30 rounded-lg p-8 mb-8">
-            <h2 className="text-2xl font-bold mb-6">Contact Information</h2>
+          <div className="bg-muted/30 rounded-lg p-8 mb-8 max-w-xl mx-auto">
+            <h2 className="text-2xl font-bold mb-6 text-center">Contact Information</h2>
             <div className="space-y-6">
-              <div className="flex items-start">
-                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mr-4">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mb-3">
                   <Mail className="h-5 w-5 text-primary" />
                 </div>
-                <div>
+                <div className="text-center">
                   <h3 className="font-medium mb-1">Email</h3>
                   <a href="mailto:hello@ascent.com" className="text-muted-foreground hover:text-foreground transition-colors">
                     hello@ascent.com
                   </a>
                 </div>
               </div>
-              
-              <div className="flex items-start">
-                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mr-4">
+
+              <div className="flex flex-col items-center text-center">
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mb-3">
                   <Phone className="h-5 w-5 text-primary" />
                 </div>
-                <div>
+                <div className="text-center">
                   <h3 className="font-medium mb-1">Phone</h3>
                   <a href="tel:+14155555555" className="text-muted-foreground hover:text-foreground transition-colors">
                     +1 (415) 555-5555
                   </a>
                 </div>
               </div>
-              
-              <div className="flex items-start">
-                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mr-4">
+
+              <div className="flex flex-col items-center text-center">
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mb-3">
                   <MapPin className="h-5 w-5 text-primary" />
                 </div>
-                <div>
+                <div className="text-center">
                   <h3 className="font-medium mb-1">Address</h3>
                   <address className="not-italic text-muted-foreground">
                     123 Design Street<br />
@@ -61,12 +61,12 @@ export default function ContactPage() {
                   </address>
                 </div>
               </div>
-              
-              <div className="flex items-start">
-                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mr-4">
+
+              <div className="flex flex-col items-center text-center">
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mb-3">
                   <Clock className="h-5 w-5 text-primary" />
                 </div>
-                <div>
+                <div className="text-center">
                   <h3 className="font-medium mb-1">Working Hours</h3>
                   <p className="text-muted-foreground">
                     Monday - Friday: 9am - 6pm<br />
