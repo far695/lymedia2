@@ -46,18 +46,11 @@ export default function Footer() {
           </div>
         </div>
         
-        <div className="border-t border-border mt-16 pt-8 flex flex-col md:flex-row justify-between items-center">
+        <div className="border-t border-border mt-16 pt-8 flex flex-col md:flex-row items-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Brand. All rights reserved.
+            © {new Date().getFullYear()} Brand. All rights reserved.{' '}
+            <Link href="https://beian.miit.gov.cn/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">京ICP备XXXXXXXX号</Link>
           </p>
-          <div className="flex space-x-6 mt-4 md:mt-0">
-            <Link href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-              Privacy Policy
-            </Link>
-            <Link href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-              Terms of Service
-            </Link>
-          </div>
         </div>
       </div>
     </footer>
