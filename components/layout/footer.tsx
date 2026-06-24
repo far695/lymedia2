@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import { Instagram, Twitter, Linkedin, Github, ArrowUpRight } from 'lucide-react'
 
 export default function Footer() {
   return (
@@ -11,24 +10,6 @@ export default function Footer() {
             <p className="text-muted-foreground max-w-xs">
               We create digital experiences that elevate your brand and inspire your audience.
             </p>
-            <div className="flex space-x-4 pt-2">
-              <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
-                <Instagram className="h-5 w-5" />
-                <span className="sr-only">Instagram</span>
-              </Link>
-              <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
-                <Twitter className="h-5 w-5" />
-                <span className="sr-only">Twitter</span>
-              </Link>
-              <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
-                <Linkedin className="h-5 w-5" />
-                <span className="sr-only">LinkedIn</span>
-              </Link>
-              <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
-                <Github className="h-5 w-5" />
-                <span className="sr-only">GitHub</span>
-              </Link>
-            </div>
           </div>
           
           <div>
