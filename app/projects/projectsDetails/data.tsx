@@ -1,5 +1,4 @@
 import React from 'react'
-import type { ReactNode } from 'react';
 
 export interface Project {
   id: string
@@ -16,6 +15,7 @@ export const projects: Project[] = [
     title: 'Nova 金融平台',
     category: '金融科技',
     description: (
+      <div>
         <p style={{ color: '#4e5461' }}>Nova 金融平台是一种现代化的银行界面，彻底改变了用户管理财务的方式。通过将直观的用户界面与先进的金融技术相结合，该平台为用户提供了管理个人财务、进行投资以及办理各种银行事务的便捷体验。</p>
         
         <h3>直观且极简的用户界面</h3>
@@ -35,6 +35,7 @@ export const projects: Project[] = [
         </ul>
         
         <p style={{ color: '#4e5461' }}>这一现代化的银行界面体现了金融服务的转型：从单纯的交易处理，转变为提供全面的财务咨询服务。通过技术手段，用户能够做出更明智的财务决策，从而实现个人财富目标。</p>
+      <div>
     ),
     image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['金融科技', '响应', 'Node.js', '银行业务']
