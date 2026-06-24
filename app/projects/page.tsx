@@ -25,10 +25,10 @@ export default function ProjectsPage() {
         <div className="container px-4 md:px-6">
           <div className="max-w-3xl">
             <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-6">
-              Our Projects
+              我们的项目
             </h1>
             <p className="text-xl text-muted-foreground">
-              Explore our portfolio of work across various industries and disciplines.
+              浏览我们涵盖各个行业和领域的项目作品集。
             </p>
           </div>
         </div>
@@ -69,36 +69,36 @@ export default function ProjectsPage() {
         <div className="container px-4 md:px-6">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <Badge variant="outline" className="mb-6">Featured Project</Badge>
+              <Badge variant="outline" className="mb-6">特色项目</Badge>
               <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-6">
-                Nova Finance Platform Redesign
+                Nova Finance平台重新设计
               </h2>
               <p className="text-muted-foreground mb-6">
-                A complete overhaul of Nova Finance's digital platform, focusing on improved user experience, accessibility, and advanced financial tools.
+                对 Nova Finance 的数字平台进行全面改造，重点在于改善用户体验、提高可访问性以及提供先进的金融工具。
               </p>
               <ul className="space-y-3 mb-8">
                 <li className="flex items-start">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5 mr-2 text-primary">
                     <polyline points="20 6 9 17 4 12"/>
                   </svg>
-                  Increased user engagement by 42%
+                  用户参与度提升了 42%
                 </li>
                 <li className="flex items-start">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5 mr-2 text-primary">
                     <polyline points="20 6 9 17 4 12"/>
                   </svg>
-                  Reduced customer support inquiries by 35%
+                  客户支持咨询量减少了35%
                 </li>
                 <li className="flex items-start">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5 mr-2 text-primary">
                     <polyline points="20 6 9 17 4 12"/>
                   </svg>
-                  Improved accessibility score from 76 to 98
+                  无障碍评分从 76 分提高到 98 分
                 </li>
               </ul>
               <Button asChild>
                 <Link href="/contact">
-                  Get in Touch
+                  联系我们
                 </Link>
               </Button>
             </div>
@@ -118,9 +118,9 @@ export default function ProjectsPage() {
       <section className="py-24">
         <div className="container px-4 md:px-6">
           <div className="max-w-3xl mx-auto text-center mb-16">
-            <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-6">Our Process</h2>
+            <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-6">我们的流程</h2>
             <p className="text-muted-foreground text-lg">
-              How we approach each project to deliver exceptional results
+              我们如何对待每个项目以取得卓越成果
             </p>
           </div>
           
@@ -128,23 +128,23 @@ export default function ProjectsPage() {
             {[
               {
                 number: '01',
-                title: 'Discovery',
-                description: 'We start by understanding your business, audience, and objectives through in-depth research and stakeholder interviews.'
+                title: '发现',
+                description: '我们首先通过深入研究和利益相关者访谈来了解您的业务、受众和目标。'
               },
               {
                 number: '02',
-                title: 'Strategy',
-                description: 'Based on our findings, we develop a comprehensive strategy tailored to your specific needs and goals.'
+                title: '战略',
+                description: '根据我们的调查结果，我们制定了一套符合您具体需求和目标的全面策略。'
               },
               {
                 number: '03',
-                title: 'Creation',
-                description: 'Our team of designers and developers bring the strategy to life with meticulous attention to detail.'
+                title: '创作',
+                description: '我们的设计师和开发人员团队一丝不苟地将战略变为现实。'
               },
               {
                 number: '04',
-                title: 'Optimization',
-                description: 'We continuously analyze, test, and refine to ensure the solution performs optimally and achieves your goals.'
+                title: '优化',
+                description: '我们不断进行分析、测试和改进，以确保解决方案发挥最佳性能并实现您的目标。'
               }
             ].map((step, index) => (
               <div key={index} className="relative p-8 bg-card rounded-lg border border-border">
@@ -164,14 +164,14 @@ export default function ProjectsPage() {
         <div className="container px-4 md:px-6">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-playfair text-3xl md:text-5xl font-bold mb-6">
-              Let's create something exceptional together
+              让我们携手创造非凡之作。
             </h2>
             <p className="text-primary-foreground/80 text-xl mb-8">
-              Ready to start your next project? We'd love to hear about your ideas.
+              准备好开始下一个项目了吗？我们很乐意听听您的想法。
             </p>
             <Button size="lg" variant="secondary" asChild>
               <Link href="/contact">
-                Get in Touch
+                联系我们
               </Link>
             </Button>
           </div>
