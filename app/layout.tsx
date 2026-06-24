@@ -5,8 +5,8 @@ import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 
 export const metadata: Metadata = {
-  title: 'Brand | Creative Agency',
-  description: 'We create digital experiences that elevate your brand',
+  title: '岭羊传媒 | 互联网广告投放平台 | 腾讯/抖音多平台营销推广解决方案',
+  description: '网络多平台营销推广解决方案',
 };
 
 export default function RootLayout({
