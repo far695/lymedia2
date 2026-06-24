@@ -17,27 +17,27 @@ export const projects: Project[] = [
     id: 'nova-finance',
     title: 'Nova 金融平台',
     category: '金融科技',
-    description: () => (
+    description: (
       <div>
-        <p style={{ color: TEXT_COLOR }}>Nova 金融平台是一种现代化的银行界面，彻底改变了用户管理财务的方式。通过将直观的用户界面与先进的金融技术相结合，该平台为用户提供了管理个人财务、进行投资以及办理各种银行事务的便捷体验。</p>
-
+        <p style={{ color: '#4e5461' }}>Nova 金融平台是一种现代化的银行界面，彻底改变了用户管理财务的方式。通过将直观的用户界面与先进的金融技术相结合，该平台为用户提供了管理个人财务、进行投资以及办理各种银行事务的便捷体验。</p>
+        
         <h3>直观且极简的用户界面</h3>
-        <ul style={{ color: TEXT_COLOR }}>
-          <li><strong>1. 清晰的仪表盘：</strong>各项关键财务指标及最新业务动态的概览</li>
-          <li><strong>2. 智能导航：</strong>能够根据用户行为进行调整的、具备情境感知功能的菜单系统</li>
-          <li><strong>3. 可视化分析：</strong>用于金融数据可视化的交互式图表和图形</li>
-          <li><strong>4. 财务健康评分：</strong>对用户的财务状况进行全面评估，并提出改进建议</li>
+        <ul>
+          <li style={{ color: '#4e5461' }}><strong>1. 清晰的仪表盘：各项关键财务指标及最新业务动态的概览</li>
+          <li style={{ color: '#4e5461' }}><strong>2. 智能导航：能够根据用户行为进行调整的、具备情境感知功能的菜单系统</li>
+          <li style={{ color: '#4e5461' }}><strong>3. 可视化分析：用于金融数据可视化的交互式图表和图形</li>
+          <li style={{ color: '#4e5461' }}><strong>4. 财务健康评分：对用户的财务状况进行全面评估，并提出改进建议</li>
         </ul>
-
+        
         <h3>高级财务分析功能</h3>
-        <ul style={{ color: TEXT_COLOR }}>
-          <li><strong>1. 实时费用分类与追踪：</strong>自动对各项交易进行分类，并生成直观的图表。</li>
-          <li><strong>2. 预测性财务模型：</strong>根据消费模式来预测未来的支出和储蓄趋势。</li>
-          <li><strong>3. 背景对比分析：</strong>将自身的消费习惯与同龄人、行业内的其他企业或特定群体进行比较。</li>
-          <li><strong>4. 财务健康评分：</strong>对用户的财务状况进行全面评估，并提出改进建议</li>
+        <ul>
+          <li style={{ color: '#4e5461' }}><strong>1. 实时费用分类与追踪：自动对各项交易进行分类，并生成直观的图表。</li>
+          <li style={{ color: '#4e5461' }}><strong>2. 预测性财务模型：根据消费模式来预测未来的支出和储蓄趋势。</li>
+          <li style={{ color: '#4e5461' }}><strong>3. 背景对比分析：将自身的消费习惯与同龄人、行业内的其他企业或特定群体进行比较。</li>
+          <li style={{ color: '#4e5461' }}><strong>4. 财务健康评分：对用户的财务状况进行全面评估，并提出改进建议</li>
         </ul>
-
-        <p style={{ color: TEXT_COLOR }}>这一现代化的银行界面体现了金融服务的转型：从单纯的交易处理，转变为提供全面的财务咨询服务。通过技术手段，用户能够做出更明智的财务决策，从而实现个人财富目标。</p>
+        
+        <p style={{ color: '#4e5461' }}>这一现代化的银行界面体现了金融服务的转型：从单纯的交易处理，转变为提供全面的财务咨询服务。通过技术手段，用户能够做出更明智的财务决策，从而实现个人财富目标。</p>
       <div>
     ),
     image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
