@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="bg-muted/30 py-16 mt-24">
       <div className="container px-4 md:px-6">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           <div className="space-y-4">
             <h3 className="text-2xl font-playfair font-bold">Brand</h3>
             <p className="text-muted-foreground max-w-xs">
@@ -46,23 +46,6 @@ export default function Footer() {
               ))}
             </ul>
           </div>
-          
-          <div>
-            <h4 className="font-medium text-lg mb-4">Services</h4>
-            <ul className="space-y-3">
-              {['Web Development', 'Brand Identity', 'UX Design', 'Digital Marketing', 'Content Creation'].map((item) => (
-                <li key={item}>
-                  <Link 
-                    href="#"
-                    className="text-muted-foreground hover:text-foreground transition-colors"
-                  >
-                    {item}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-          
           <div>
             <h4 className="font-medium text-lg mb-4">Contact</h4>
             <address className="not-italic text-muted-foreground space-y-3">
