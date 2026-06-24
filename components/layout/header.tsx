@@ -9,11 +9,11 @@ import { useTheme } from 'next-themes'
 import { cn } from '@/lib/utils'
 
 const navigation = [
-  { name: 'Home', href: '/' },
-  { name: 'Projects', href: '/projects' },
-  { name: 'Partners', href: '/partners' },
-  { name: 'About', href: '/about' },
-  { name: 'Contact', href: '/contact' },
+  { name: '首页', href: '/' },
+  { name: '合作案例', href: '/projects' },
+  { name: '合作伙伴', href: '/partners' },
+  { name: '关于岭羊', href: '/about' },
+  { name: '联系我们', href: '/contact' },
 ]
 
 export default function Header() {
@@ -44,7 +44,7 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <span className="font-playfair text-2xl font-bold tracking-tight">
-                Brand
+                岭羊(广州)文化传媒有限公司
               </span>
             </Link>
           </div>
@@ -80,7 +80,7 @@ export default function Header() {
             </Button>
             
             <Button className="hidden md:flex" asChild>
-              <Link href="/contact">Get in Touch</Link>
+              <Link href="/contact">联系我们</Link>
             </Button>
             
             <Button
@@ -102,7 +102,7 @@ export default function Header() {
             <div className="flex items-center justify-between mb-8">
               <Link href="/" className="flex items-center space-x-2">
                 <span className="font-playfair text-2xl font-bold tracking-tight">
-                  Brand
+                  岭羊(广州)文化传媒有限公司
                 </span>
               </Link>
               <Button
