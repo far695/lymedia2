@@ -26,21 +26,21 @@ export default function Home() {
         <div className="container relative z-20 px-4 md:px-6">
           <div className="max-w-3xl">
             <h1 className="font-playfair text-4xl md:text-5xl lg:text-7xl font-bold tracking-tight mb-6">
-              We craft digital experiences that elevate brands
+              岭羊传媒6年营销经验
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-xl">
-              Strategy-led design and technology for forward-thinking brands and businesses.
+              为您提供专业的互联网营销案例分析
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="text-base" asChild>
                 <Link href="/projects">
-                  View Our Projects
+                  合作案例
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Link>
               </Button>
               <Button size="lg" variant="outline" className="text-base bg-white border border-blue-400 hover:bg-blue-50" asChild>
                 <Link href="/contact">
-                  Get in Touch
+                  联系岭羊
                 </Link>
               </Button>
             </div>
@@ -57,9 +57,9 @@ export default function Home() {
         <div className="container px-4 md:px-6">
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-16">
             <div className="max-w-md mb-8 md:mb-0">
-              <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-4">Our Services</h2>
+              <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-4">我们的服务</h2>
               <p className="text-muted-foreground whitespace-nowrap">
-                We blend strategy, design, and technology to create impactful digital solutions.
+                我们将战略、设计和技术相结合，打造具有影响力的数字化解决方案。
               </p>
             </div>
           </div>
@@ -68,23 +68,23 @@ export default function Home() {
             {[
               {
                 icon: <PenTool className="h-10 w-10" />,
-                title: 'Brand Identity',
-                description: 'We create distinctive visual systems that embody your brand values.'
+                title: '品牌标识',
+                description: '我们打造独具特色的视觉系统，充分体现您的品牌价值。'
               },
               {
                 icon: <Code className="h-10 w-10" />,
-                title: 'Web Development',
-                description: 'Custom web solutions built with cutting-edge technologies for performance and scalability.'
+                title: '网站开发',
+                description: '采用尖端技术构建的定制化网络解决方案，兼具高性能和可扩展性。'
               },
               {
                 icon: <Users className="h-10 w-10" />,
-                title: 'UX Design',
-                description: 'Human-centered design that creates intuitive, engaging experiences for your users.'
+                title: '用户体验设计',
+                description: '以人为本的设计，为用户创造直观、引人入胜的体验。'
               },
               {
                 icon: <BarChart className="h-10 w-10" />,
-                title: 'Digital Marketing',
-                description: 'Data-driven strategies to increase your visibility and drive meaningful engagement.'
+                title: '数字营销',
+                description: '运用数据驱动策略来提高您的知名度并推动有意义的互动。'
               }
             ].map((service, i) => (
               <div key={i} className="group p-8 bg-card rounded-lg border border-border hover:border-primary/50 transition-all duration-300">
@@ -102,14 +102,14 @@ export default function Home() {
         <div className="container px-4 md:px-6">
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-16">
             <div className="max-w-md mb-8 md:mb-0">
-              <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-4">Featured Projects</h2>
+              <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-4">特色项目</h2>
               <p className="text-muted-foreground">
-                A selection of our recent work across various industries.
+                以下是我们近期在各个行业开展的部分工作成果。
               </p>
             </div>
             <Button variant="outline" asChild>
               <Link href="/projects">
-                View All Projects
+                查看所有合作案例
                 <ArrowUpRight className="ml-2 h-4 w-4" />
               </Link>
             </Button>
@@ -127,7 +127,7 @@ export default function Home() {
       <section className="py-24 bg-muted/30">
         <div className="container px-4 md:px-6">
           <h2 className="font-playfair text-3xl md:text-4xl font-bold text-center mb-16">
-            What Our Clients Say
+            客户评价
           </h2>
           
           <TestimonialSlider />
@@ -139,14 +139,15 @@ export default function Home() {
         <div className="container px-4 md:px-6">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-playfair text-3xl md:text-5xl font-bold mb-6">
-              Ready to start your project?
+              准备好开始你的项目了吗？
             </h2>
             <p className="text-primary-foreground/80 text-xl mb-8 max-w-xl mx-auto">
-              Let's create something exceptional together. Get in touch with our team to discuss your ideas.
+              让我们携手打造非凡之作。请联系我们的团队，探讨您的想法。
+
             </p>
             <Button size="lg" variant="secondary" asChild>
               <Link href="/contact">
-                Get in Touch
+                联系岭羊
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
             </Button>
