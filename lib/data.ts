@@ -20,7 +20,7 @@ export const projects = [
     title: '中国南方电网',
     category: '朋友圈推广',
     description: '深耕新型电力系统建设，面向大众传递安全节电、低碳用电常识的骨干电网企业。',
-    image: 'https://images.pexels.com/photos/1103242/pexels-photo-1103242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://images.pexels.com/photos/33552892/pexels-photo-33552892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['公域流量科普', '民生知识传播', '朋友圈宣传']
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     title: '星乐度露营度假区',
     category: '朋友圈推广',
     description: '常态化推出特色主题活动的亲子露营文旅品牌。',
-    image: 'https://images.pexels.com/photos/7625308/pexels-photo-7625308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://free.picui.cn/free/20260625/8229d5b213dee1d15923c3545a990de8.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['线上活动宣发', '朋友圈宣传', '线上直播种草']
   },
   {
@@ -44,7 +44,7 @@ export const projects = [
     title: '中兴智慧家庭',
     category: '朋友圈推广',
     description: '打造互联便捷居家体验，持续迭代智能新品的科技品牌。',
-    image: 'https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://free.picui.cn/free/20260625/c139767f8f850f6013a9d641c110045c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['新品种草', '朋友圈宣传', '智能场景视觉包装']
   }
 ];
