@@ -92,7 +92,7 @@ export default function PartnersPage() {
             </div>
             <div className="relative h-[400px] rounded-lg overflow-hidden">
               <Image
-                src="https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src="https://images.pexels.com/photos/7644064/pexels-photo-7644064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Partnership approach"
                 fill
                 className="object-cover"
@@ -219,7 +219,7 @@ export default function PartnersPage() {
             </div>
             <div className="relative h-[400px] rounded-lg overflow-hidden">
               <Image
-                src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src="https://images.pexels.com/photos/8518810/pexels-photo-8518810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Partnership"
                 fill
                 className="object-cover"
