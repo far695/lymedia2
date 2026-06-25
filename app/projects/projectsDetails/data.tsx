@@ -10,7 +10,7 @@ export interface Project {
   tags: string[]
 }
 
-const TEXT_COLOR = '#4e5461';
+const textStyle = { color: '#4c5461' };
 
 export const projects: Project[] = [
   {
@@ -19,7 +19,7 @@ export const projects: Project[] = [
     category: '金融科技',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>Nova 金融平台是一种现代化的银行界面，彻底改变了用户管理财务的方式。通过将直观的用户界面与先进的金融技术相结合，该平台为用户提供了管理个人财务、进行投资以及办理各种银行事务的便捷体验。</p>
+        <p style={textStyle}>Nova 金融平台是一种现代化的银行界面，彻底改变了用户管理财务的方式。通过将直观的用户界面与先进的金融技术相结合，该平台为用户提供了管理个人财务、进行投资以及办理各种银行事务的便捷体验。</p>
         
         <h3>直观且极简的用户界面</h3>
         <ul>
