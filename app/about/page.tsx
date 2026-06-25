@@ -60,25 +60,25 @@ export default function AboutPage() {
                 year: '2015',
                 title: '开端',
                 description: '岭羊传媒的创立愿景是打造真正有意义的数字化体验。公司最初只有三名团队成员和一个小型办公室，我们专注于为与我们价值观相同的客户打造有意义的作品。',
-                image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+                image: 'https://images.pexels.com/photos/7652128/pexels-photo-7652128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
               },
               {
                 year: '2018',
                 title: '提升我们的专业技能',
                 description: '随着客户数量的增长，我们的团队和能力也随之增强。我们拓展了服务范围，涵盖全面的品牌战略和数字营销，从而能够提供端到端的解决方案。',
-                image: 'https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+                image: 'https://images.pexels.com/photos/7653583/pexels-photo-7653583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
               },
               {
                 year: '2021',
                 title: '国际认可',
                 description: '我们对卓越品质的执着追求获得了多项行业奖项的认可。我们开始与国际客户合作，并树立了我们作为具有前瞻性思维的创意合作伙伴的声誉。',
-                image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+                image: 'https://images.pexels.com/photos/7652048/pexels-photo-7652048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
               },
               {
                 year: '2023',
                 title: '我们今天所处的位置',
                 description: '如今，岭羊传媒汇聚了一群充满热情、富有创意的策略师，致力于帮助品牌驾驭数字化时代。我们不断发展、创新，并突破一切可能的界限。',
-                image: 'https://images.pexels.com/photos/3182781/pexels-photo-3182781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+                image: 'https://images.pexels.com/photos/7653997/pexels-photo-7653997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
               }
             ].map((milestone, index) => (
               <div key={index} className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
@@ -192,7 +192,7 @@ export default function AboutPage() {
             </p>
           </div>
           
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8">
             {team.map((member, index) => (
               <div key={index} className="group">
                 <div className="relative mb-6 overflow-hidden rounded-lg aspect-[3/4]">
