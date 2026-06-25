@@ -192,9 +192,9 @@ export default function AboutPage() {
             </p>
           </div>
           
-          <div className="max-w-[60vw] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {team.map((member, index) => (
-              <div key={index} className="group">
+              <div key={index} className="group lg:col-span-2">
                 <div className="relative mb-6 overflow-hidden rounded-lg aspect-[3/4]">
                   <Image
                     src={member.image}
