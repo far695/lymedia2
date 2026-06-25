@@ -78,13 +78,13 @@ export const team = [
     name: '周磊',
     title: '创始人兼直播总监',
     bio: '在拥有超过 15 年的设计和品牌策划经验后，周磊创立了岭羊传媒公司。他的愿景是将战略思维与卓越的设计理念相结合。',
-    image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    image: 'https://free.picui.cn/free/20260625/15a3089f44a7a069edb5ae8c16808eaf.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
   },
   {
     name: '李海朗',
     title: '创始人兼战略总监',
     bio: '周磊擅长制定出色的品牌战略和宣传理念，从而帮助企业在与目标受众的互动中建立有意义的联系。',
-    image: 'https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    image: 'https://free.picui.cn/free/20260625/b8e49e94f2e938fc169bc1e4b879c7dc.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
   }
 ];
 
