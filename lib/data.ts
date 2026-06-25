@@ -104,7 +104,7 @@ export const partners = [
   {
     name: '农夫山泉',
     description: '以天然水为核心，覆盖全品类饮品的国民消费品牌。',
-    logo: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
+    logo: 'https://free.picui.cn/free/20260625/6202f5cd060bca4726fc6acd35b6231c.jpg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
     testimonial: '岭羊传媒搭建抖音直播专属数字视觉体系，通过直播间场景生动诠释‘大自然搬运工’的天然品质理念。'
   },
   {
