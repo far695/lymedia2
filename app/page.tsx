@@ -15,7 +15,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-r from-background/90 via-background/50 to-background/20 dark:from-background/95 dark:via-background/80 dark:to-background/95 z-10" />
           <Image 
-            src="https://images.pexels.com/photos/3861458/pexels-photo-3861458.jpeg?auto=compress&cs=tinysrgb&w=1600" 
+            src="https://free.picui.cn/free/20260625/af35a0528e2af29d9800261c4d5a320e.webp?auto=compress&cs=tinysrgb&w=1600" 
             alt="Hero background" 
             fill 
             className="object-cover"
