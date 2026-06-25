@@ -54,22 +54,22 @@ export const testimonials = [
     name: '中国南方电网',
     title: '抖音',
     company: '开屏',
-    quote: '与岭羊传媒的合作彻底改变了我们的品牌形象。他们对细节的关注和富有创意的方案，带来了远超我们预期的成果。',
-    avatar: 'https://images.pexels.com/photos/762080/pexels-photo-762080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    quote: '与岭羊传媒合作有效优化品牌公众形象，拓宽品牌受众圈层。他们对细节的关注和富有创意的方案，带来了远超我们预期的成果。',
+    avatar: 'https://free.picui.cn/free/20260625/641762b4eb7299c850527b6dd76c3278.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
   },
   {
     name: '茶理宜世',
     title: '朋友圈',
     company: '信息流',
     quote: '岭羊传媒团队从一开始就理解了我们的愿景。他们制定的数字化战略与我们的可持续发展使命和价值观完美契合。',
-    avatar: 'https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    avatar: 'https://free.picui.cn/free/20260625/9486cb03ad0856eb89f0f44b76b6a461.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
   },
   {
     name: '农夫山泉',
     title: '抖音',
     company: '直播',
-    quote: '他们能够精准把握我们手工品牌的精髓，并将其转化为卓越的数字体验，真是令人赞叹。他们是真正的创意合作伙伴。',
-    avatar: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    quote: '他们能够精准把握我们品牌的精髓，并将其转化为卓越的数字体验，真是令人赞叹。他们是真正的创意合作伙伴。',
+    avatar: 'https://free.picui.cn/free/20260625/1633c6c555a1a1edfd6f64eaf7445985.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
   },
 ];
 
@@ -83,47 +83,47 @@ export const team = [
   {
     name: '李海朗',
     title: '创始人兼战略总监',
-    bio: '周磊擅长制定出色的品牌战略和宣传理念，从而帮助企业在与目标受众的互动中建立有意义的联系。',
+    bio: '李海朗擅长制定出色的品牌战略和宣传理念，从而帮助企业在与目标受众的互动中建立有意义的联系。',
     image: 'https://free.picui.cn/free/20260625/b8e49e94f2e938fc169bc1e4b879c7dc.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
   }
 ];
 
 export const partners = [
   {
-    name: 'TechNova',
-    description: '一家在可持续创新领域处于领先地位的科技企业。',
-    logo: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
-    testimonial: '岭羊传媒帮助我们提升了数字形象，从而更好地体现了我们的创新理念。'
+    name: '中国南方电网',
+    description: '一家深耕能源保障、引领绿色电力革新的大型能源企业。',
+    logo: 'https://images.pexels.com/photos/33552892/pexels-photo-33552892.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
+    testimonial: '岭羊传媒重塑我们数字化品牌风貌，充分传递低碳能源、智慧供电的发展初心。'
   },
   {
-    name: 'GreenEarth',
-    description: '这是一家致力于环境保护与教育的非营利组织。',
-    logo: 'https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
-    testimonial: '通过我们的合作，在线捐款和志愿者报名人数分别增长了 40%。'
+    name: '茶理宜世',
+    description: '深耕岭南国风、融合传统茶文化的新式江南鲜茶品牌。',
+    logo: 'https://free.picui.cn/free/20260625/693165a4e07542906f226789c332838f.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
+    testimonial: '岭羊传媒升级我们数字化品牌视觉，完整传递国风鲜茶、粤韵新生的品牌内核。'
   },
   {
-    name: '城市居民',
-    description: '适合紧凑型城市居住空间的现代家具设计。',
+    name: '农夫山泉',
+    description: '以天然水为核心，覆盖全品类饮品的国民消费品牌。',
     logo: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
-    testimonial: '岭羊传媒这一品牌标识完美地体现了我们的审美理念和价值观。'
+    testimonial: '岭羊传媒搭建抖音直播专属数字视觉体系，通过直播间场景生动诠释‘大自然搬运工’的天然品质理念。'
   },
   {
-    name: 'Pulse Media',
-    description: '一家专注于新兴文化趋势的数字媒体公司。',
-    logo: 'https://images.pexels.com/photos/3182781/pexels-photo-3182781.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
-    testimonial: '与岭羊传媒合作之后，我们的内容策略和与受众的互动方式都发生了显著变化。'
+    name: '星乐度露营度假区',
+    description: '集露营游乐、亲子团建、主题活动于一体的户外度假目的地。',
+    logo: 'https://free.picui.cn/free/20260625/8229d5b213dee1d15923c3545a990de8.jpg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
+    testimonial: '岭羊传媒焕新视频号直播视觉体系，依托多场线上直播活动造势推广，全方位展现沉浸式露营度假的品牌特色。'
   },
   {
-    name: 'Summit Financial',
-    description: '为数字经济量身定制的先进金融服务。',
-    logo: 'https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
-    testimonial: '在岭羊传媒的协助下，我们对网站进行了重新设计，结果客户数量增加了25%。'
+    name: '鼎和财产',
+    description: '覆盖财险全品类、持续迭代定制化保障方案的保险企业。',
+    logo: 'https://images.pexels.com/photos/12172757/pexels-photo-12172757.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
+    testimonial: '在岭羊传媒的协助下，优化朋友圈数字化宣传表达，以持续性朋友圈广告推广全新保障产品，让适配各类场景的保险方案触达广大客户群体。'
   },
   {
-    name: 'Horizon Health',
-    description: '这家医疗服务机构致力于提供便捷的远程医疗服务。',
-    logo: 'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
-    testimonial: '岭羊传媒帮助我们克服了在打造用户友好的远程医疗平台过程中所面临的种种复杂挑战。'
+    name: '正佳广场',
+    description: '持续上新业态、打造多样线下主题活动的城市潮玩购物中心。',
+    logo: 'https://free.picui.cn/free/20260625/fdfdea56eca585644ecd28b70822972f.jpg?auto=compress&cs=tinysrgb&w=1600&h=1000&dpr=2',
+    testimonial: '岭羊传媒升级朋友圈推广视觉形象，借助朋友圈渠道宣发线下活动、预热新店开业，生动传递潮流、丰富、沉浸式的商业品牌内核。'
   }
 ];
 
