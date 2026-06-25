@@ -192,7 +192,7 @@ export default function AboutPage() {
             </p>
           </div>
           
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:flex justify-center gap-8 flex-wrap">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:flex justify-center gap-8 flex-wrap justify-items-center">
             {team.map((member, index) => (
               <div key={index} className="group max-w-[270px] w-full">
                 <div className="relative mb-6 overflow-hidden rounded-lg aspect-[3/4]">
