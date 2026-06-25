@@ -1,51 +1,51 @@
 export const projects = [
   {
-    id: 'nova-finance',
-    title: 'NNova金融平台',
-    category: '网站开发',
-    description: '具备先进分析功能和个性化洞察的现代化银行界面。',
-    image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['响应', 'TypeScript', 'Tailwind CSS', '金融']
+    id: '农夫山泉',
+    title: '东方树叶',
+    category: '抖音本地推直播',
+    description: '以东方草本原叶为核心的无糖茶饮标杆品牌。',
+    image: 'https://free.picui.cn/free/20260625/6202f5cd060bca4726fc6acd35b6231c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['本地生活推广', '直播间视觉打造', '饮品内容营销']
   },
   {
-    id: 'eco-habitat',
-    title: '生态栖息地',
-    category: '品牌标识',
-    description: '为一个专注于环保生活的可持续住房项目打造完整的品牌形象。',
-    image: 'https://images.pexels.com/photos/2469122/pexels-photo-2469122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['品牌推广', '标志设计', '可持续性']
+    id: '茶理宜世',
+    title: '茶理宜世',
+    category: '朋友圈推广',
+    description: '以中式古韵为内核，持续上新特色茶饮、拓展线下门店的国风茶饮品牌。',
+    image: 'https://free.picui.cn/free/20260625/693165a4e07542906f226789c332838f.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['饮品内容营销', '新品种草', '新店预热', '朋友圈宣传']
   },
   {
-    id: 'pulse-fitness',
-    title: '脉搏健身应用程序',
-    category: '移动开发',
-    description: '一款提供个性化锻炼计划和营养指导的健身追踪应用。',
+    id: '中国南方电网',
+    title: '中国南方电网',
+    category: '朋友圈推广',
+    description: '深耕新型电力系统建设，面向大众传递安全节电、低碳用电常识的骨干电网企业。',
     image: 'https://images.pexels.com/photos/1103242/pexels-photo-1103242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['React Native', '健康科技', '用户体验设计']
+    tags: ['公域流量科普', '民生知识传播', '朋友圈宣传']
   },
   {
-    id: 'artisan-cafe',
-    title: '手工咖啡',
-    category: '品牌标识',
-    description: '为一家专注于精品咖啡的高档连锁咖啡馆进行品牌形象和室内设计。',
-    image: 'https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['品牌推广', '室内设计', '酒店业']
+    id: '百岁山',
+    title: '百岁山',
+    category: '抖音本地推直播',
+    description: '主打天然矿泉水，依托线上流量实现线下门店带货的饮品标杆。',
+    image: 'https://free.picui.cn/free/20260625/30037e3919078ab2ff77c14839da9546.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['信息流带货投放', '饮品内容营销', '直播间视觉打造', '本地生活推广']
   },
   {
-    id: 'nomad-travel',
-    title: '游牧旅行平台',
-    category: '网站开发',
-    description: '为数字游民提供独特住宿选择的旅行预订平台。',
+    id: '星乐度露营度假区',
+    title: '星乐度露营度假区',
+    category: '朋友圈推广',
+    description: '常态化推出特色主题活动的亲子露营文旅品牌。',
     image: 'https://images.pexels.com/photos/7625308/pexels-photo-7625308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['Next.js', '旅游科技', '用户界面设计']
+    tags: ['线上活动宣发', '朋友圈宣传', '线上直播种草']
   },
   {
-    id: 'summit-events',
-    title: '峰会活动',
-    category: '数字营销',
-    description: '为一场科技大会策划数字化营销活动，包括互动式落地页和社交媒体策略。',
+    id: '中兴',
+    title: '中兴智慧家庭',
+    category: '朋友圈推广',
+    description: '打造互联便捷居家体验，持续迭代智能新品的科技品牌。',
     image: 'https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['数字营销', '活动', '网页设计']
+    tags: ['新品种草', '朋友圈宣传', '智能场景视觉包装']
   }
 ];
 
@@ -129,47 +129,44 @@ export const partners = [
 
 export const services = [
   {
-    title: 'Brand Identity',
-    description: 'We develop comprehensive brand identities that capture your essence and connect with your audience.',
+    title: '品牌形象',
+    description: '我们打造全面的品牌形象，捕捉您的精髓，并与您的受众建立联系。',
     features: [
-      'Brand strategy and positioning',
-      'Logo and visual identity design',
-      'Brand guidelines and assets',
-      'Brand messaging and voice',
-      'Brand applications'
+      '品牌战略与定位',
+      '品牌信息和声音',
+      '品牌营销'
     ]
   },
   {
-    title: 'Web Development',
-    description: 'We build custom web solutions that combine technical excellence with outstanding user experience.',
+    title: '丰富广告资源',
+    description: '满足不同行业的广告投放。',
     features: [
-      'Custom website development',
-      'E-commerce platforms',
-      'Web applications',
-      'Content management systems',
-      'Website maintenance and support'
+      '生活方式平台',
+      '效果平台',
+      '多元化内容社交平台',
+      '全球用户广告平台'
     ]
   },
   {
-    title: 'UX Design',
-    description: 'We create intuitive digital experiences that delight users and achieve business objectives.',
+    title: '服务团队',
+    description: '成熟的广告运营团队和创意、设计团队及专业的直播团队，拥有综合实力的互联网广告、直播、CID技术服务机构。',
     features: [
-      'User research and testing',
-      'Information architecture',
-      'Wireframing and prototyping',
-      'Interface design',
-      'Usability optimization'
+      '品牌',
+      '金融',
+      '游戏',
+      '电商',
+      '教育'
     ]
   },
   {
-    title: 'Digital Marketing',
-    description: 'We develop data-driven strategies to increase your visibility and engage your target audience.',
+    title: '数字营销',
+    description: '我们制定数据驱动型策略，以提高您的知名度并吸引您的目标受众。',
     features: [
-      'Digital strategy development',
-      'Search engine optimization (SEO)',
-      'Content marketing',
-      'Social media strategy',
-      'Performance analysis and reporting'
+      '腾讯广告',
+      '巨量广告',
+      '海外广告',
+      '直播营销',
+      '多链路曝光'
     ]
   }
 ];
