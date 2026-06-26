@@ -105,7 +105,7 @@ export default function ProjectsPage() {
             <div className="relative h-[300px] md:h-[400px] rounded-lg overflow-hidden">
               <Image
                 src="https://images.pexels.com/photos/8101836/pexels-photo-8101836.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                alt="Nova Finance Platform"
+                alt="projects-ad"
                 fill
                 className="object-cover"
               />
