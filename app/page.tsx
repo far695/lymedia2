@@ -1,7 +1,11 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
-import { ArrowRight, ArrowUpRight, Users, BarChart, Code, PenTool } from 'lucide-react'
+import { ArrowRight, ArrowUpRight } from 'lucide-react'
+import adq from "@/assets/icons/adq.svg"
+import meta from "@/assets/icons/meta.svg"
+import kuaishou from "@/assets/icons/kuaishou.svg"
+import oceanengine from "@/assets/icons/oceanengine.svg"
 import ProjectCard from '@/components/projects/project-card'
 import TestimonialSlider from '@/components/testimonial-slider'
 import { projects, partners } from '@/lib/data'
@@ -67,22 +71,22 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
               {
-                icon: <PenTool className="h-10 w-10" />,
+                icon: <adq className="h-10 w-10" />,
                 title: '腾讯广告',
                 description: '国内年轻社交平台，用黑科技和多元玩法与年轻用户深度互动。'
               },
               {
-                icon: <Code className="h-10 w-10" />,
+                icon: <oceanengine className="h-10 w-10" />,
                 title: '头条&抖音广告',
                 description: '大数据抖音媒体资源，引领智能移动广告，整合营销体系。'
               },
               {
-                icon: <Users className="h-10 w-10" />,
+                icon: <kuaishou className="h-10 w-10" />,
                 title: '快手广告',
                 description: '广告投放+电商直播卖货+视频号长效运营，沉浸式原生视频体验，看见更多好内容。'
               },
               {
-                icon: <BarChart className="h-10 w-10" />,
+                icon: <meta className="h-10 w-10" />,
                 title: '海外广告',
                 description: '致力于突破国际壁垒，用品牌成为航海罗盘。'
               }
