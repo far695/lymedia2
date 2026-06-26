@@ -16,25 +16,25 @@ export const projects: Project[] = [
     category: '抖音本地推直播',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>诺瓦金融平台是一套现代化银行交互界面，彻底改变用户管理资金的方式。产品将极简直观的视觉设计与前沿金融技术相结合，为个人理财、资产管理与银行业务提供一站式流畅使用体验。</p>
+        <p style={{ color: '#4e5461' }}>围绕无糖原叶茶新品线下种草需求，融合国风茶饮视觉与同城流量投放逻辑，打造适配本地生活场景的数字化传播体系，触达同城年轻茶饮消费人群，高效完成直播间曝光、引流与线上带货目标。</p>
         
-        <h3>简洁直观的极简用户界面</h3>
+        <h3>前期准备</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 清晰数据仪表盘：</strong>集中展示核心财务数据与近期收支动态</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 智能导航栏：</strong>根据用户操作习惯自适应调整菜单功能</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 可视化数据分析：</strong>交互式图表，直观展示各类财务数据</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 财务健康评分：</strong>全方位评估个人财务状况，并提供优化改善建议</li>
+          <li style={{ color: '#4e5461' }}><strong>1：</strong>适配抖音信息流、直播间的国风茶饮专属配色与字体规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2：</strong>贴合同城本地流量、突出产品口感与直播间的广告素材设计。</li>
+          <li style={{ color: '#4e5461' }}><strong>3：</strong>标准化抖音本地推投放、直播执行全流程操作方案。</li>
+          <li style={{ color: '#4e5461' }}><strong>4：</strong>短视频素材、直播间画面、落地页全套统一营销物料。</li>
         </ul>
         
-        <h3>专业高级财务分析功能</h3>
+        <h3>回顾</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 实时收支分类追踪：</strong>自动归类每笔交易，生成可视化收支图表</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 智能财务预测模型：</strong>基于消费习惯预判未来支出与储蓄走势</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 多维度对比分析：</strong>可与同圈层人群、行业平均或自定义组别对比消费习惯</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 财务健康评分：</strong>全方位评估个人财务状况，并提供优化改善建议</li>
+          <li style={{ color: '#4e5461' }}><strong>1：</strong>本地推定向人群、同城直播转化全链路执行标准。</li>
+          <li style={{ color: '#4e5461' }}><strong>2：</strong>实时监控流量数据，同步做出提量操作。</li>
+          <li style={{ color: '#4e5461' }}><strong>3：</strong>将消费习惯与同龄人、行业同行或自定义群体进行比较。</li>
+          <li style={{ color: '#4e5461' }}><strong>4：</strong>对直播状况进行全面评估并提供改进建议。</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>这套现代化银行界面代表金融服务的全新转型：不再仅处理基础交易，而是提供全方位财务规划服务。借助数字化能力，帮助用户理性规划收支，稳步达成个人财富目标。</p>
+        <p style={{ color: '#4e5461' }}>东方树叶抖音本地推全案，依托同城流量渠道打造国风茶饮数字化传播语言，标准化广告投放与直播执行流程，精准覆盖本地潜在客群，实现新品快速种草、线下门店客流提升的营销目标。</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/6202f5cd060bca4726fc6acd35b6231c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
