@@ -107,21 +107,21 @@ export const projects: Project[] = [
     description: (
       <div>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1:</strong> Primary and secondary marks with versatile applications</li>
-          <li style={{ color: '#4e5461' }}><strong>2:</strong> Strategic color selection conveying brand personality</li>
-          <li style={{ color: '#4e5461' }}><strong>3:</strong> Distinctive and functional font families</li>
-          <li style={{ color: '#4e5461' }}><strong>4:</strong> Imagery style, iconography, and graphic elements</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 适配抖音本地直播间统一百岁山品牌配色、字体与版式视觉规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 天然矿泉水科普长图文、直播间主视觉海报、饮品种草短视频整套创意素材体系。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 直播带货前期筹备、分批次排期投放、直播间用户互动、投放后数据复盘标准化操作方案。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 抖音直播间画面物料、饮品种草短视频全套统一宣传物料。</li>
         </ul>
         
-        <h3>Brand Expression Guidelines</h3>
+        <h3>品牌形象</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1:</strong> Tone, personality, and communication principles</li>
-          <li style={{ color: '#4e5461' }}><strong>2:</strong> Consistent application across all touchpoints</li>
-          <li style={{ color: '#4e5461' }}><strong>3:</strong> UI/UX guidelines for digital platforms</li>
-          <li style={{ color: '#4e5461' }}><strong>4:</strong> Framework for growth while maintaining recognition</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 线上投放、实时带货数据监测、直播间用户反馈收集、营销转化复盘全链路执行规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 将消费客群关注习惯与同龄人群、同类饮品品牌或自定义目标群体进行数据对比。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 及时针对投放成交数据进行复盘，可以更好地了解带货转化效果，优化信息流投放与直播运营策略。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 对整体引流、成交、核销投放状况进行全面评估并提供运营改进建议。</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>A successful Brand Identity serves as the foundation for all brand interactions, creating emotional connections with audiences while establishing trust and recognition that drives business value and fosters lasting customer relationships.</p>
+        <p style={{ color: '#4e5461' }}>百岁山饮品营销全案，打通私域种草渗透与抖音本地直播公域大范围曝光渠道，构建从前期内容策划、视觉素材制作、分批次渠道投放至后期数据复盘的完整运营流程，以简约高级的品牌视觉承载天然矿泉水产品卖点，全方位向大众传递健康天然饮水知识，依托线上流量赋能线下门店带货转化。</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/30037e3919078ab2ff77c14839da9546.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -134,21 +134,21 @@ export const projects: Project[] = [
     description: (
       <div>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1:</strong> Climate, cost of living, and visa requirement analytics</li>
-          <li style={{ color: '#4e5461' }}><strong>2:</strong> Curated coworking spaces with connectivity ratings</li>
-          <li style={{ color: '#4e5461' }}><strong>3:</strong> Nomad-friendly housing with flexible terms</li>
-          <li style={{ color: '#4e5461' }}><strong>4:</strong> Integrated transportation and relocation planning</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 适配朋友圈宣传、线上直播统一度假区品牌配色、素材、字体与版式规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 露营游玩长图文、活动主题全屏海报、亲子度假种草短视频整套创意素材体系。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 文旅宣传前期筹备、排期投放、直播间互动、投放后复盘标准化操作方案。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 朋友圈活动推文、直播视觉物料、度假种草短视频全套统一宣传物料。</li>
         </ul>
         
-        <h3>Community & Lifestyle Support</h3>
+        <h3>文旅营销</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1:</strong> Location-based community connections and events</li>
-          <li style={{ color: '#4e5461' }}><strong>2:</strong> Destination guides and local insights</li>
-          <li style={{ color: '#4e5461' }}><strong>3:</strong> Time zone management and productivity tools</li>
-          <li style={{ color: '#4e5461' }}><strong>4:</strong> Health resources and work-life balance support</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 双渠道线上投放、实时流量数据监测、游客反馈收集、宣传效果复盘全链路执行规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 将出游关注习惯与亲子家庭、同龄游玩人群或自定义客群进行比较。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 及时针对数据进行复盘，可以更好地了解引流转化效果，优化宣传投放与直播运营策略。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 对引流、预约、到店转化投放状况进行全面评估并提供改进建议。</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>The Nomad Travel Platform serves as a comprehensive companion for the modern location-independent lifestyle, bridging the gap between travel aspirations and practical realities while fostering a global community of like-minded professionals seeking freedom, growth, and authentic experiences.</p>
+        <p style={{ color: '#4e5461' }}>星乐度露营度假区双渠道文旅营销全案，打通朋友圈私域种草渗透与线上直播公域大范围曝光渠道，构建从前期内容策划、视觉素材制作、分批次渠道投放至后期数据复盘的完整运营流程，以轻松童趣的品牌视觉承载亲子露营、主题游乐、短途度假内容，全方位向大众展示一站式亲子露营度假区游玩亮点，吸引家庭客群前往线下体验游玩。</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/8229d5b213dee1d15923c3545a990de8.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -161,21 +161,21 @@ export const projects: Project[] = [
     description: (
       <div>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1:</strong> Behavioral analysis and segmentation methodologies</li>
-          <li style={{ color: '#4e5461' }}><strong>2:</strong> Cross-platform strategy and budget allocation</li>
-          <li style={{ color: '#4e5461' }}><strong>3:</strong> Integrated storytelling and content journey mapping</li>
-          <li style={{ color: '#4e5461' }}><strong>4:</strong> ROI measurement and attribution modeling</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 适配朋友圈宣传统一中兴智慧家庭科技配色、字体与版式视觉规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 路由器新品科普长图文、全屋智能场景海报、数码产品种草短视频整套创意素材体系。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 新品宣传前期筹备、分批次排期投放、投放后数据复盘标准化操作方案。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 朋友圈新品推文、场景宣传海报、智能产品种草短视频全套统一宣传物料。</li>
         </ul>
         
-        <h3>Tactical Implementation Elements</h3>
+        <h3>种草转化</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1:</strong> SEO fundamentals and paid search campaign management</li>
-          <li style={{ color: '#4e5461' }}><strong>2:</strong> Platform-specific strategies and community building</li>
-          <li style={{ color: '#4e5461' }}><strong>3:</strong> Landing page design and funnel analysis</li>
-          <li style={{ color: '#4e5461' }}><strong>4:</strong> Personalized customer journeys and nurture workflows</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 朋友圈渠道线上投放、实时曝光转化数据监测、用户产品反馈收集、种草效果复盘全链路执行规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 将受众关注习惯与家装群体、数码爱好者、同品类科技品牌受众进行数据对比。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 及时针对投放互动、咨询数据进行复盘，可以更好地了解新品种草效果，优化朋友圈投放与内容创作策略。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 对引流咨询、产品种草转化投放状况进行全面评估并提供运营改进建议。</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>Effective Digital Marketing transcends individual tactics to create cohesive brand experiences across the customer lifecycle, combining creativity with analytical precision to generate measurable business outcomes while adapting to rapidly evolving technologies and consumer behaviors in the digital landscape.</p>
+        <p style={{ color: '#4e5461' }}>中兴智慧家庭新品传播全案，深耕朋友圈私域种草渗透渠道，构建从前期内容策划、智能场景视觉素材制作、分批次朋友圈投放至后期数据复盘的完整运营流程，以简约高级的科技视觉承载全屋路由、高速互联居家产品内容，全方位向大众展示中兴智慧家庭网络硬件优势，传递便捷流畅的智能居家互联体验，高效完成新品曝光与用户种草转化。</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/c139767f8f850f6013a9d641c110045c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
