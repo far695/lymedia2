@@ -4,7 +4,7 @@ export const projects = [
     title: '东方树叶',
     category: '抖音本地推直播',
     description: '以东方草本原叶为核心的无糖茶饮标杆品牌。',
-    image: '/images/project-nova.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://free.picui.cn/free/20260625/6202f5cd060bca4726fc6acd35b6231c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['本地生活推广', '直播间视觉打造', '饮品内容营销']
   },
   {
