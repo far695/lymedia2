@@ -16,25 +16,25 @@ export const projects: Project[] = [
     category: '抖音本地推直播',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>围绕无糖原叶茶新品线下种草需求，融合国风茶饮视觉与同城流量投放逻辑，打造适配本地生活场景的数字化传播体系，触达同城年轻茶饮消费人群，高效完成直播间曝光、引流与线上带货目标。</p>
+        <p style={{ color: '#4e5461' }}>Nova Finance Platform is a modern banking interface that revolutionizes how users interact with their finances. By combining intuitive design with advanced financial technology, it provides a seamless experience for managing personal finances, investments, and banking services.</p>
         
-        <h3>前期准备</h3>
+        <h3>Intuitive and Minimalist User Interface</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Logo System:</strong> 适配抖音信息流、直播间的国风茶饮专属配色与字体规范。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Logo System:</strong> 贴合同城本地流量、突出产品口感与直播间的广告素材设计。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Logo System:</strong> 标准化抖音本地推投放、直播执行全流程操作方案。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Logo System:</strong> 短视频素材、直播间画面、落地页全套统一营销物料。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Clean Dashboard:</strong> Overview of key financial metrics and recent activities</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Smart Navigation:</strong> Context-aware menu system that adapts to user behavior</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Visual Analytics:</strong> Interactive charts and graphs for financial data visualization</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Financial Health Score:</strong> Comprehensive assessment of user's financial status with improvement suggestions</li>
         </ul>
         
-        <h3>回顾</h3>
+        <h3>Advanced Financial Analysis Functions</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Logo System:</strong> 本地推定向人群、同城直播转化全链路执行标准。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Logo System:</strong> 实时监控流量数据，同步做出提量操作。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Logo System:</strong> 将消费习惯与同龄人、行业同行或自定义群体进行比较。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Logo System:</strong> 对直播状况进行全面评估并提供改进建议。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Real-time Expense Categorization and Tracking:</strong> Automatically categorize transactions and generate intuitive charts</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Predictive Financial Models:</strong> Forecast future expenditures and saving trends based on consumption patterns</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Contextual Comparative Analysis:</strong> Compare spending habits with peers, industry counterparts, or custom groups</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Financial Health Score:</strong> Comprehensive assessment of user's financial status with improvement suggestions</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>东方树叶抖音本地推全案，依托同城流量渠道打造国风茶饮数字化传播语言，标准化广告投放与直播执行流程，精准覆盖本地潜在客群，实现新品快速种草、线下门店客流提升的营销目标。</p>
+        <p style={{ color: '#4e5461' }}>This modern banking interface represents the transformation of financial services from transaction processing to comprehensive financial advisory, empowering users through technology to make smarter financial decisions and achieve personal wealth goals.</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/6202f5cd060bca4726fc6acd35b6231c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -46,25 +46,25 @@ export const projects: Project[] = [
     category: '朋友圈推广',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>覆盖国内朋友圈、海外 Instagram 信息流的双渠道营销落地全案，聚焦新品上市、新店开业全周期前置筹备与完整执行复盘。将岭南国风茶饮美学适配海内外双社交平台传播逻辑，搭建统一国风视觉传播体系，面向国内年轻消费群体与海外华人受众完成新品种草、新店开业预热，沉淀标准化跨社媒新店新品全流程运营方案。</p>
+        <p style={{ color: '#4e5461' }}>Eco Habitat is a comprehensive brand identity project focused on sustainable housing initiatives. By combining eco-conscious design principles with community-focused messaging, it creates a powerful visual language that resonates with environmentally conscious consumers and promotes sustainable living practices.</p>
         
-        <h3>前期准备</h3>
+        <h3>Brand Design System</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 适配朋友圈、Instagram 双平台统一岭南国风色彩与文字规范。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 分阶段预热素材体系（新品剧透、新店探店、倒计时海报）。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 新品 & 新店上线前置筹备、投放执行、数据复盘标准化流程方案。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 国内朋友圈图文短内容、海外 ins 图文 / Reels 短视频全套统一营销物料。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Visual Identity:</strong> Eco-friendly color palette and typography</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Logo Design:</strong> Sustainable and modern brand mark</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Design Guidelines:</strong> Comprehensive brand style guide</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Brand Collateral:</strong> Consistent application across all touchpoints</li>
         </ul>
         
-        <h3>回顾</h3>
+        <h3>Material Guidelines</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 复盘确定可持续方案，各种复杂的市场情况和客户需求。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 制定投放过程预警方案，确保广告准时上线。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 将消费习惯与同龄人、行业同行或自定义群体进行比较。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 通过对广告数据的深入分析，可以更好地了解广告效果，优化广告投放策略。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Sustainable Materials:</strong> Eco-friendly printing and production options</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Packaging Design:</strong> Minimal waste packaging solutions</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Digital Assets:</strong> Optimized for various platforms</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Brand Collateral:</strong> Consistent application across all touchpoints</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>双社媒新品新店全案，打通国内朋友圈私域种草与海外 Instagram 公域曝光渠道，建立从前期素材筹备、分阶段预热投放、落地引流到后期数据复盘的完整标准化流程，以统一岭南国风视觉传递品牌内核，高效完成新品认知渗透、新店开业客流预热的营销目标。</p>
+        <p style={{ color: '#4e5461' }}>Eco Habitat's brand identity represents a commitment to sustainable living, creating a visual language that inspires and engages communities while promoting environmental consciousness.</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/693165a4e07542906f226789c332838f.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -76,25 +76,25 @@ export const projects: Project[] = [
     category: '朋友圈推广',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>中国南方电网全域电力科普传播全案，依托朋友圈信息流与抖音开屏两大线上渠道，围绕安全用电、节能节电、绿色电力科普搭建完整数字化传播体系。融合国企稳重亲民视觉调性适配双平台传播规则，建立从前期内容筹备、分阶段投放执行到结案复盘的标准化闭环流程，面向城乡居民普及实用用电常识，打造兼具权威性与通俗性的全域电力科普宣传方案。</p>
+        <p style={{ color: '#4e5461' }}>Pulse Fitness App is a comprehensive mobile fitness solution that combines personalized workout tracking, nutrition guidance, and social features to create an engaging fitness experience. By leveraging mobile technology and data analytics, it provides users with a convenient and effective way to achieve their fitness goals.</p>
         
-        <h3>前期准备</h3>
+        <h3>Workout Management</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 适配朋友圈、抖音开屏的统一国企科普配色、字体与版式规范。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 用电科普长图文、全屏开屏海报、科普短视频整套创意素材体系。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 科普宣传前期筹备、排期投放、用户互动、投放后复盘标准化操作方案。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 朋友圈科普推文、抖音全屏开屏广告、短视频科普短片全套统一宣传物料。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Custom Routines:</strong> Personalized workout plans and exercises</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Exercise Library:</strong> Comprehensive database of workouts</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Progress Tracking:</strong> Detailed performance monitoring</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Workout Scheduling:</strong> Smart planning and reminders</li>
         </ul>
         
-        <h3>回顾</h3>
+        <h3>Nutrition Tracking</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 双渠道上线投放、实时数据监测、群众反馈收集、传播效果复盘全链路执行规范。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 将关注习惯与同龄人、行业或自定义群体进行比较。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 及时针对数据进行复盘，可以更好地了解广告效果，优化广告投放策略。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 对投流状况进行全面评估并提供改进建议。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Meal Planning:</strong> Personalized nutrition guidance</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Food Logging:</strong> Easy calorie and macro tracking</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Recipe Database:</strong> Healthy meal suggestions</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Hydration Monitoring:</strong> Water intake tracking</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>中国南方电网双渠道电力科普全案，打通朋友圈私域渗透与抖音开屏公域大范围曝光渠道，构建从前期内容策划、视觉素材制作、分批次渠道投放至后期数据复盘的完整运营流程，以专业温和的品牌视觉承载民生用电科普内容，全方位向大众普及安全用电、低碳节电、新型绿色电力相关知识。</p>
+        <p style={{ color: '#4e5461' }}>Pulse Fitness App transforms the fitness experience by making it more accessible, engaging, and effective through innovative mobile technology and comprehensive tracking features.</p>
       </div>
     ),
     image: 'https://images.pexels.com/photos/33552892/pexels-photo-33552892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
