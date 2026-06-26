@@ -1,12 +1,7 @@
-'use client'
 import Link from 'next/link'
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
-import { ArrowRight, ArrowUpRight } from 'lucide-react'
-import Adq from "@/src/assets/images/Adq.svg"
-import Meta from "@/src/assets/images/Meta.svg"
-import Kuaishou from "@/src/assets/images/Kuaishou.svg"
-import Oceanengine from "@/src/assets/images/Oceanengine.svg"
+import { ArrowRight, ArrowUpRight, Users, BarChart, Code, PenTool } from 'lucide-react'
 import ProjectCard from '@/components/projects/project-card'
 import TestimonialSlider from '@/components/testimonial-slider'
 import { projects, partners } from '@/lib/data'
@@ -72,22 +67,22 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
               {
-                icon: <Adq className="h-6 w-10" />,
+                icon: <PenTool className="h-6 w-10" />,
                 title: '腾讯广告',
                 description: '国内年轻社交平台，用黑科技和多元玩法与年轻用户深度互动。'
               },
               {
-                icon: <Oceanengine className="h-10 w-10" />,
+                icon: <Code className="h-10 w-10" />,
                 title: '头条&抖音广告',
                 description: '大数据抖音媒体资源，引领智能移动广告，整合营销体系。'
               },
               {
-                icon: <Kuaishou className="h-10 w-10" />,
+                icon: <Users className="h-10 w-10" />,
                 title: '快手广告',
                 description: '广告投放+电商直播卖货+视频号长效运营，沉浸式原生视频体验，看见更多好内容。'
               },
               {
-                icon: <Meta className="h-7 w-10" />,
+                icon: <BarChart className="h-7 w-10" />,
                 title: '海外广告',
                 description: '致力于突破国际壁垒，用品牌成为航海罗盘。'
               }
