@@ -16,25 +16,25 @@ export const projects: Project[] = [
     category: '抖音本地推直播',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>Nova Finance Platform is a modern banking interface that revolutionizes how users interact with their finances. By combining intuitive design with advanced financial technology, it provides a seamless experience for managing personal finances, investments, and banking services.</p>
+        <p style={{ color: '#4e5461' }}>诺瓦金融平台是一套现代化银行交互界面，彻底改变用户管理资金的方式。产品将极简直观的视觉设计与前沿金融技术相结合，为个人理财、资产管理与银行业务提供一站式流畅使用体验。</p>
         
-        <h3>Intuitive and Minimalist User Interface</h3>
+        <h3>简洁直观的极简用户界面</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Clean Dashboard:</strong> Overview of key financial metrics and recent activities</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Smart Navigation:</strong> Context-aware menu system that adapts to user behavior</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Visual Analytics:</strong> Interactive charts and graphs for financial data visualization</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Financial Health Score:</strong> Comprehensive assessment of user's financial status with improvement suggestions</li>
+          <li style={{ color: '#4e5461' }}><strong>1. 清晰数据仪表盘：</strong>集中展示核心财务数据与近期收支动态</li>
+          <li style={{ color: '#4e5461' }}><strong>2. 智能导航栏：</strong>根据用户操作习惯自适应调整菜单功能</li>
+          <li style={{ color: '#4e5461' }}><strong>3. 可视化数据分析：</strong>交互式图表，直观展示各类财务数据</li>
+          <li style={{ color: '#4e5461' }}><strong>4. 财务健康评分：</strong>全方位评估个人财务状况，并提供优化改善建议</li>
         </ul>
         
-        <h3>Advanced Financial Analysis Functions</h3>
+        <h3>专业高级财务分析功能</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Real-time Expense Categorization and Tracking:</strong> Automatically categorize transactions and generate intuitive charts</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Predictive Financial Models:</strong> Forecast future expenditures and saving trends based on consumption patterns</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Contextual Comparative Analysis:</strong> Compare spending habits with peers, industry counterparts, or custom groups</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Financial Health Score:</strong> Comprehensive assessment of user's financial status with improvement suggestions</li>
+          <li style={{ color: '#4e5461' }}><strong>1. 实时收支分类追踪：</strong>自动归类每笔交易，生成可视化收支图表</li>
+          <li style={{ color: '#4e5461' }}><strong>2. 智能财务预测模型：</strong>基于消费习惯预判未来支出与储蓄走势</li>
+          <li style={{ color: '#4e5461' }}><strong>3. 多维度对比分析：</strong>可与同圈层人群、行业平均或自定义组别对比消费习惯</li>
+          <li style={{ color: '#4e5461' }}><strong>4. 财务健康评分：</strong>全方位评估个人财务状况，并提供优化改善建议</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>This modern banking interface represents the transformation of financial services from transaction processing to comprehensive financial advisory, empowering users through technology to make smarter financial decisions and achieve personal wealth goals.</p>
+        <p style={{ color: '#4e5461' }}>这套现代化银行界面代表金融服务的全新转型：不再仅处理基础交易，而是提供全方位财务规划服务。借助数字化能力，帮助用户理性规划收支，稳步达成个人财富目标。</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/6202f5cd060bca4726fc6acd35b6231c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
