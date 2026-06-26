@@ -11,7 +11,7 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    id: '农夫山泉',
+    id: 'nongfushanquan',
     title: '东方树叶',
     category: '抖音本地推直播',
     description: (
