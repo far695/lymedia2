@@ -20,18 +20,18 @@ export const projects: Project[] = [
         
         <h3>前期准备</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 适配抖音信息流、直播间的国风茶饮专属配色与字体规范。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 贴合同城本地流量、突出产品口感与直播间的广告素材设计。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 标准化抖音本地推投放、直播执行全流程操作方案。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 短视频素材、直播间画面、落地页全套统一营销物料。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Logo System:</strong> 适配抖音信息流、直播间的国风茶饮专属配色与字体规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Logo System:</strong> 贴合同城本地流量、突出产品口感与直播间的广告素材设计。</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Logo System:</strong> 标准化抖音本地推投放、直播执行全流程操作方案。</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Logo System:</strong> 短视频素材、直播间画面、落地页全套统一营销物料。</li>
         </ul>
         
         <h3>回顾</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. 本地推定向人群、同城直播转化全链路执行标准。</li>
-          <li style={{ color: '#4e5461' }}><strong>2. 实时监控流量数据，同步做出提量操作。</li>
-          <li style={{ color: '#4e5461' }}><strong>3. 将消费习惯与同龄人、行业同行或自定义群体进行比较。</li>
-          <li style={{ color: '#4e5461' }}><strong>4. 对直播状况进行全面评估并提供改进建议。</li>
+          <li style={{ color: '#4e5461' }}><strong>1. Logo System:</strong> 本地推定向人群、同城直播转化全链路执行标准。</li>
+          <li style={{ color: '#4e5461' }}><strong>2. Logo System:</strong> 实时监控流量数据，同步做出提量操作。</li>
+          <li style={{ color: '#4e5461' }}><strong>3. Logo System:</strong> 将消费习惯与同龄人、行业同行或自定义群体进行比较。</li>
+          <li style={{ color: '#4e5461' }}><strong>4. Logo System:</strong> 对直播状况进行全面评估并提供改进建议。</li>
         </ul>
         
         <p style={{ color: '#4e5461' }}>东方树叶抖音本地推全案，依托同城流量渠道打造国风茶饮数字化传播语言，标准化广告投放与直播执行流程，精准覆盖本地潜在客群，实现新品快速种草、线下门店客流提升的营销目标。</p>
