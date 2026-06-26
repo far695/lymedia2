@@ -40,7 +40,7 @@ export default function Home() {
               </Button>
               <Button size="lg" variant="outline" className="text-base bg-white border border-blue-400 hover:bg-blue-50" asChild>
                 <Link href="/contact">
-                  联系岭羊
+                  联系我们
                 </Link>
               </Button>
             </div>
@@ -68,23 +68,23 @@ export default function Home() {
             {[
               {
                 icon: <PenTool className="h-10 w-10" />,
-                title: '品牌标识',
-                description: '我们打造独具特色的视觉系统，充分体现您的品牌价值。'
+                title: '腾讯广告',
+                description: '国内年轻社交平台，用黑科技和多元玩法与年轻用户深度互动。'
               },
               {
                 icon: <Code className="h-10 w-10" />,
-                title: '网站开发',
-                description: '采用尖端技术构建的定制化网络解决方案，兼具高性能和可扩展性。'
+                title: '头条&抖音广告',
+                description: '大数据抖音媒体资源，引领智能移动广告，整合营销体系。'
               },
               {
                 icon: <Users className="h-10 w-10" />,
-                title: '用户体验设计',
-                description: '以人为本的设计，为用户创造直观、引人入胜的体验。'
+                title: '快手广告',
+                description: '广告投放+电商直播卖货+视频号长效运营，沉浸式原生视频体验，看见更多好内容。'
               },
               {
                 icon: <BarChart className="h-10 w-10" />,
-                title: '数字营销',
-                description: '运用数据驱动策略来提高您的知名度并推动有意义的互动。'
+                title: '海外广告',
+                description: '致力于突破国际壁垒，用品牌成为航海罗盘。'
               }
             ].map((service, i) => (
               <div key={i} className="group p-8 bg-card rounded-lg border border-border hover:border-primary/50 transition-all duration-300">
