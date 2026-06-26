@@ -2,10 +2,10 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { ArrowRight, ArrowUpRight } from 'lucide-react'
-import Adq from "@/public/images/adq.svg"
-import Meta from "@/public/images/meta.svg"
-import Kuaishou from "@/public/images/kuaishou.svg"
-import Oceanengine from "@/public/images/oceanengine.svg"
+import Adq from "@/src/assets/images/Adq.svg"
+import Meta from "@/src/assets/images/Meta.svg"
+import Kuaishou from "@/src/assets/images/Kuaishou.svg"
+import Oceanengine from "@/src/assets/images/Oceanengine.svg"
 import ProjectCard from '@/components/projects/project-card'
 import TestimonialSlider from '@/components/testimonial-slider'
 import { projects, partners } from '@/lib/data'
