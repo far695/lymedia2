@@ -16,7 +16,7 @@ export default function AboutPage() {
                 有目的地打造数字体验
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
-                我们是由设计师、开发人员和策略师组成的团队，致力于创造有意义的数字体验。
+                我们是由设计师、运营人员和项目人员组成的团队，致力于创造有意义的数字体验。
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild>
@@ -50,7 +50,7 @@ export default function AboutPage() {
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-6">我们的故事</h2>
             <p className="text-muted-foreground text-lg">
-              从默默无闻到成为领先的创意机构
+              从默默无闻到成为领先的营销机构
             </p>
           </div>
           
