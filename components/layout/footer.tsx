@@ -49,7 +49,7 @@ export default function Footer() {
         <div className="border-t border-border mt-16 pt-8 flex flex-col md:flex-row items-center">
           <p className="text-sm text-muted-foreground">
             © {new Date().getFullYear()} 岭羊(广州)文化传媒有限公司. 保留所有权利。{' '}
-            <Link href="https://beian.miit.gov.cn/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">粤ICP备123456789号</Link>
+            <Link href="https://beian.miit.gov.cn/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">  </Link>
           </p>
         </div>
       </div>
