@@ -2,10 +2,10 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { ArrowRight, ArrowUpRight } from 'lucide-react'
-import adq from "@/public/images/adq.svg"
-import meta from "@/public/images/meta.svg"
-import kuaishou from "@/public/images/kuaishou.svg"
-import oceanengine from "@/public/images/oceanengine.svg"
+import Adq from "@/public/images/adq.svg"
+import Meta from "@/public/images/meta.svg"
+import Kuaishou from "@/public/images/kuaishou.svg"
+import Oceanengine from "@/public/images/oceanengine.svg"
 import ProjectCard from '@/components/projects/project-card'
 import TestimonialSlider from '@/components/testimonial-slider'
 import { projects, partners } from '@/lib/data'
@@ -71,7 +71,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
               {
-                icon: <adq className="h-10 w-10" />,
+                icon: <adq className="h-6 w-10" />,
                 title: '腾讯广告',
                 description: '国内年轻社交平台，用黑科技和多元玩法与年轻用户深度互动。'
               },
@@ -86,7 +86,7 @@ export default function Home() {
                 description: '广告投放+电商直播卖货+视频号长效运营，沉浸式原生视频体验，看见更多好内容。'
               },
               {
-                icon: <meta className="h-10 w-10" />,
+                icon: <meta className="h-7 w-10" />,
                 title: '海外广告',
                 description: '致力于突破国际壁垒，用品牌成为航海罗盘。'
               }
