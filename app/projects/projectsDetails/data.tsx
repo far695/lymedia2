@@ -46,25 +46,25 @@ export const projects: Project[] = [
     category: '朋友圈推广',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>Eco Habitat is a comprehensive brand identity project focused on sustainable housing initiatives. By combining eco-conscious design principles with community-focused messaging, it creates a powerful visual language that resonates with environmentally conscious consumers and promotes sustainable living practices.</p>
+        <p style={{ color: '#4e5461' }}>覆盖国内朋友圈、海外 Instagram 信息流的双渠道营销落地全案，聚焦新品上市、新店开业全周期前置筹备与完整执行复盘。将岭南国风茶饮美学适配海内外双社交平台传播逻辑，搭建统一国风视觉传播体系，面向国内年轻消费群体与海外华人受众完成新品种草、新店开业预热，沉淀标准化跨社媒新店新品全流程运营方案。</p>
         
-        <h3>Brand Design System</h3>
+        <h3>前期准备</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Visual Identity:</strong> Eco-friendly color palette and typography</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Logo Design:</strong> Sustainable and modern brand mark</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Design Guidelines:</strong> Comprehensive brand style guide</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Brand Collateral:</strong> Consistent application across all touchpoints</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 适配朋友圈、Instagram 双平台统一岭南国风色彩与文字规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 分阶段预热素材体系（新品剧透、新店探店、倒计时海报）。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 新品 & 新店上线前置筹备、投放执行、数据复盘标准化流程方案。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 国内朋友圈图文短内容、海外 ins 图文 / Reels 短视频全套统一营销物料。</li>
         </ul>
         
-        <h3>Material Guidelines</h3>
+        <h3>回顾</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Sustainable Materials:</strong> Eco-friendly printing and production options</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Packaging Design:</strong> Minimal waste packaging solutions</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Digital Assets:</strong> Optimized for various platforms</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Brand Collateral:</strong> Consistent application across all touchpoints</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 复盘确定可持续方案，各种复杂的市场情况和客户需求。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 制定投放过程预警方案，确保广告准时上线。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 将消费习惯与同龄人、行业同行或自定义群体进行比较。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 通过对广告数据的深入分析，可以更好地了解广告效果，优化广告投放策略。</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>Eco Habitat's brand identity represents a commitment to sustainable living, creating a visual language that inspires and engages communities while promoting environmental consciousness.</p>
+        <p style={{ color: '#4e5461' }}>双社媒新品新店全案，打通国内朋友圈私域种草与海外 Instagram 公域曝光渠道，建立从前期素材筹备、分阶段预热投放、落地引流到后期数据复盘的完整标准化流程，以统一岭南国风视觉传递品牌内核，高效完成新品认知渗透、新店开业客流预热的营销目标。</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/693165a4e07542906f226789c332838f.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -76,29 +76,29 @@ export const projects: Project[] = [
     category: '朋友圈推广',
     description: (
       <div>
-        <p style={{ color: '#4e5461' }}>Pulse Fitness App is a comprehensive mobile fitness solution that combines personalized workout tracking, nutrition guidance, and social features to create an engaging fitness experience. By leveraging mobile technology and data analytics, it provides users with a convenient and effective way to achieve their fitness goals.</p>
+        <p style={{ color: '#4e5461' }}>中国南方电网全域电力科普传播全案，依托朋友圈信息流与抖音开屏两大线上渠道，围绕安全用电、节能节电、绿色电力科普搭建完整数字化传播体系。融合国企稳重亲民视觉调性适配双平台传播规则，建立从前期内容筹备、分阶段投放执行到结案复盘的标准化闭环流程，面向城乡居民普及实用用电常识，打造兼具权威性与通俗性的全域电力科普宣传方案。</p>
         
-        <h3>Workout Management</h3>
+        <h3>前期准备</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Custom Routines:</strong> Personalized workout plans and exercises</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Exercise Library:</strong> Comprehensive database of workouts</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Progress Tracking:</strong> Detailed performance monitoring</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Workout Scheduling:</strong> Smart planning and reminders</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 适配朋友圈、抖音开屏的统一国企科普配色、字体与版式规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 用电科普长图文、全屏开屏海报、科普短视频整套创意素材体系。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 科普宣传前期筹备、排期投放、用户互动、投放后复盘标准化操作方案。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 朋友圈科普推文、抖音全屏开屏广告、短视频科普短片全套统一宣传物料。</li>
         </ul>
         
-        <h3>Nutrition Tracking</h3>
+        <h3>回顾</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Meal Planning:</strong> Personalized nutrition guidance</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Food Logging:</strong> Easy calorie and macro tracking</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Recipe Database:</strong> Healthy meal suggestions</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Hydration Monitoring:</strong> Water intake tracking</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> 双渠道上线投放、实时数据监测、群众反馈收集、传播效果复盘全链路执行规范。</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> 将关注习惯与同龄人、行业或自定义群体进行比较。</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> 及时针对数据进行复盘，可以更好地了解广告效果，优化广告投放策略。</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> 对投流状况进行全面评估并提供改进建议。</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>Pulse Fitness App transforms the fitness experience by making it more accessible, engaging, and effective through innovative mobile technology and comprehensive tracking features.</p>
+        <p style={{ color: '#4e5461' }}>中国南方电网双渠道电力科普全案，打通朋友圈私域渗透与抖音开屏公域大范围曝光渠道，构建从前期内容策划、视觉素材制作、分批次渠道投放至后期数据复盘的完整运营流程，以专业温和的品牌视觉承载民生用电科普内容，全方位向大众普及安全用电、低碳节电、新型绿色电力相关知识。</p>
       </div>
     ),
     image: 'https://images.pexels.com/photos/33552892/pexels-photo-33552892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['React Native', 'Health Tech', 'UX Design']
+    tags: ['公域流量科普', '民生知识传播', '朋友圈宣传']
   },
   {
     id: 'Ganten',
@@ -107,18 +107,18 @@ export const projects: Project[] = [
     description: (
       <div>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Logo System:</strong> Primary and secondary marks with versatile applications</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Color Palette:</strong> Strategic color selection conveying brand personality</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Typography Hierarchy:</strong> Distinctive and functional font families</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Visual Language:</strong> Imagery style, iconography, and graphic elements</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> Primary and secondary marks with versatile applications</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> Strategic color selection conveying brand personality</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> Distinctive and functional font families</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> Imagery style, iconography, and graphic elements</li>
         </ul>
         
         <h3>Brand Expression Guidelines</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Brand Voice:</strong> Tone, personality, and communication principles</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Implementation Standards:</strong> Consistent application across all touchpoints</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Digital Experience:</strong> UI/UX guidelines for digital platforms</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Brand Evolution:</strong> Framework for growth while maintaining recognition</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> Tone, personality, and communication principles</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> Consistent application across all touchpoints</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> UI/UX guidelines for digital platforms</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> Framework for growth while maintaining recognition</li>
         </ul>
         
         <p style={{ color: '#4e5461' }}>A successful Brand Identity serves as the foundation for all brand interactions, creating emotional connections with audiences while establishing trust and recognition that drives business value and fosters lasting customer relationships.</p>
@@ -134,18 +134,18 @@ export const projects: Project[] = [
     description: (
       <div>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Destination Intelligence:</strong> Climate, cost of living, and visa requirement analytics</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Workspace Finder:</strong> Curated coworking spaces with connectivity ratings</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Accommodation Matchmaking:</strong> Nomad-friendly housing with flexible terms</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Travel Logistics:</strong> Integrated transportation and relocation planning</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> Climate, cost of living, and visa requirement analytics</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> Curated coworking spaces with connectivity ratings</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> Nomad-friendly housing with flexible terms</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> Integrated transportation and relocation planning</li>
         </ul>
         
         <h3>Community & Lifestyle Support</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Nomad Networking:</strong> Location-based community connections and events</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Knowledge Exchange:</strong> Destination guides and local insights</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Remote Work Resources:</strong> Time zone management and productivity tools</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Wellbeing Services:</strong> Health resources and work-life balance support</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> Location-based community connections and events</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> Destination guides and local insights</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> Time zone management and productivity tools</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> Health resources and work-life balance support</li>
         </ul>
         
         <p style={{ color: '#4e5461' }}>The Nomad Travel Platform serves as a comprehensive companion for the modern location-independent lifestyle, bridging the gap between travel aspirations and practical realities while fostering a global community of like-minded professionals seeking freedom, growth, and authentic experiences.</p>
@@ -161,18 +161,18 @@ export const projects: Project[] = [
     description: (
       <div>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Audience Intelligence:</strong> Behavioral analysis and segmentation methodologies</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Channel Optimization:</strong> Cross-platform strategy and budget allocation</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Content Ecosystem:</strong> Integrated storytelling and content journey mapping</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Performance Analytics:</strong> ROI measurement and attribution modeling</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> Behavioral analysis and segmentation methodologies</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> Cross-platform strategy and budget allocation</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> Integrated storytelling and content journey mapping</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> ROI measurement and attribution modeling</li>
         </ul>
         
         <h3>Tactical Implementation Elements</h3>
         <ul>
-          <li style={{ color: '#4e5461' }}><strong>1. Search Marketing:</strong> SEO fundamentals and paid search campaign management</li>
-          <li style={{ color: '#4e5461' }}><strong>2. Social Media Engagement:</strong> Platform-specific strategies and community building</li>
-          <li style={{ color: '#4e5461' }}><strong>3. Conversion Optimization:</strong> Landing page design and funnel analysis</li>
-          <li style={{ color: '#4e5461' }}><strong>4. Marketing Automation:</strong> Personalized customer journeys and nurture workflows</li>
+          <li style={{ color: '#4e5461' }}><strong>1:</strong> SEO fundamentals and paid search campaign management</li>
+          <li style={{ color: '#4e5461' }}><strong>2:</strong> Platform-specific strategies and community building</li>
+          <li style={{ color: '#4e5461' }}><strong>3:</strong> Landing page design and funnel analysis</li>
+          <li style={{ color: '#4e5461' }}><strong>4:</strong> Personalized customer journeys and nurture workflows</li>
         </ul>
         
         <p style={{ color: '#4e5461' }}>Effective Digital Marketing transcends individual tactics to create cohesive brand experiences across the customer lifecycle, combining creativity with analytical precision to generate measurable business outcomes while adapting to rapidly evolving technologies and consumer behaviors in the digital landscape.</p>
