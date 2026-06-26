@@ -1,6 +1,6 @@
 export const projects = [
   {
-    id: '农夫山泉',
+    id: 'nongfushanquan',
     title: '东方树叶',
     category: '抖音本地推直播',
     description: '以东方草本原叶为核心的无糖茶饮标杆品牌。',
