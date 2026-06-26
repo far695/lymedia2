@@ -69,31 +69,31 @@ export default function ProjectsPage() {
         <div className="container px-4 md:px-6">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <Badge variant="outline" className="mb-6">特色项目</Badge>
+              <Badge variant="outline" className="mb-6">全类目产品</Badge>
               <h2 className="font-playfair text-3xl md:text-4xl font-bold mb-6">
-                Nova Finance平台重新设计
+                全时全景覆盖
               </h2>
               <p className="text-muted-foreground mb-6">
-                对 Nova Finance 的数字平台进行全面改造，重点在于改善用户体验、提高可访问性以及提供先进的金融工具。
+                丰富的海量产品，覆盖用户各个使用场景，无缝触达您的目标客户定制化投放方案，达成各种营销目标。
               </p>
               <ul className="space-y-3 mb-8">
                 <li className="flex items-start">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5 mr-2 text-primary">
                     <polyline points="20 6 9 17 4 12"/>
                   </svg>
-                  用户参与度提升了 42%
+                  腾讯广告
                 </li>
                 <li className="flex items-start">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5 mr-2 text-primary">
                     <polyline points="20 6 9 17 4 12"/>
                   </svg>
-                  客户支持咨询量减少了35%
+                  头条&抖音广告
                 </li>
                 <li className="flex items-start">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5 mr-2 text-primary">
                     <polyline points="20 6 9 17 4 12"/>
                   </svg>
-                  无障碍评分从 76 分提高到 98 分
+                  海外广告
                 </li>
               </ul>
               <Button asChild>
@@ -139,7 +139,7 @@ export default function ProjectsPage() {
               {
                 number: '03',
                 title: '创作',
-                description: '我们的设计师和开发人员团队一丝不苟地将战略变为现实。'
+                description: '我们的设计师和运营团队一丝不苟地将战略变为现实。'
               },
               {
                 number: '04',
