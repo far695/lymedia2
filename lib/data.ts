@@ -1,6 +1,6 @@
 export const projects = [
   {
-    id: 'nongfushanquan',
+    id: 'nongfu-spring',
     title: '东方树叶',
     category: '抖音本地推直播',
     description: '以东方草本原叶为核心的无糖茶饮标杆品牌。',
@@ -8,7 +8,7 @@ export const projects = [
     tags: ['本地生活推广', '直播间视觉打造', '饮品内容营销']
   },
   {
-    id: '茶理宜世',
+    id: 'chaliys',
     title: '茶理宜世',
     category: '朋友圈推广',
     description: '以中式古韵为内核，持续上新特色茶饮、拓展线下门店的国风茶饮品牌。',
@@ -16,7 +16,7 @@ export const projects = [
     tags: ['饮品内容营销', '新品种草', '新店预热', '朋友圈宣传']
   },
   {
-    id: '中国南方电网',
+    id: 'csg',
     title: '中国南方电网',
     category: '朋友圈推广',
     description: '深耕新型电力系统建设，面向大众传递安全节电、低碳用电常识的骨干电网企业。',
@@ -24,7 +24,7 @@ export const projects = [
     tags: ['公域流量科普', '民生知识传播', '朋友圈宣传']
   },
   {
-    id: '百岁山',
+    id: 'Ganten',
     title: '百岁山',
     category: '抖音本地推直播',
     description: '主打天然矿泉水，依托线上流量实现线下门店带货的饮品标杆。',
@@ -32,7 +32,7 @@ export const projects = [
     tags: ['信息流带货投放', '饮品内容营销', '直播间视觉打造', '本地生活推广']
   },
   {
-    id: '星乐度露营度假区',
+    id: 'sumlodol',
     title: '星乐度露营度假区',
     category: '朋友圈推广',
     description: '常态化推出特色主题活动的亲子露营文旅品牌。',
@@ -40,7 +40,7 @@ export const projects = [
     tags: ['线上活动宣发', '朋友圈宣传', '线上直播种草']
   },
   {
-    id: '中兴',
+    id: 'zte',
     title: '中兴智慧家庭',
     category: '朋友圈推广',
     description: '打造互联便捷居家体验，持续迭代智能新品的科技品牌。',
