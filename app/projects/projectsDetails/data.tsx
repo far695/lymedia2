@@ -11,7 +11,7 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    id: 'nongfushanquan',
+    id: 'nongfu-spring',
     title: '东方树叶',
     category: '抖音本地推直播',
     description: (
@@ -41,7 +41,7 @@ export const projects: Project[] = [
     tags: ['本地生活推广', '直播间视觉打造', '饮品内容营销']
   },
   {
-    id: '茶理宜世',
+    id: 'chaliys',
     title: '茶理宜世',
     category: '朋友圈推广',
     description: (
@@ -71,7 +71,7 @@ export const projects: Project[] = [
     tags: ['饮品内容营销', '新品种草', '新店预热', '朋友圈宣传']
   },
   {
-    id: '中国南方电网',
+    id: 'csg',
     title: '中国南方电网',
     category: '朋友圈推广',
     description: (
@@ -101,7 +101,7 @@ export const projects: Project[] = [
     tags: ['React Native', 'Health Tech', 'UX Design']
   },
   {
-    id: '百岁山',
+    id: 'Ganten',
     title: '百岁山',
     category: '抖音本地推直播',
     description: (
@@ -128,7 +128,7 @@ export const projects: Project[] = [
     tags: ['信息流带货投放', '饮品内容营销', '直播间视觉打造', '本地生活推广']
   },
   {
-    id: '星乐度露营度假区',
+    id: 'sumlodol',
     title: '星乐度露营度假区',
     category: '朋友圈推广',
     description: (
@@ -155,7 +155,7 @@ export const projects: Project[] = [
     tags: ['线上活动宣发', '朋友圈宣传', '线上直播种草']
   },
   {
-    id: '中兴',
+    id: 'zte',
     title: '中兴智慧家庭',
     category: '朋友圈推广',
     description: (
