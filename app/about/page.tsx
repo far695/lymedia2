@@ -231,8 +231,8 @@ export default function AboutPage() {
                   </Link>
                 </Button>
                 <Button size="lg" variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10" asChild>
-                  <Link href="/careers">
-                    查看职位
+                  <Link href="/projects">
+                    合作案例
                   </Link>
                 </Button>
               </div>
