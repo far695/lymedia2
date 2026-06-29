@@ -34,7 +34,7 @@ export const projects: Project[] = [
           <li style={{ color: '#4e5461' }}><strong>4：</strong>对直播状况进行全面评估并提供改进建议。</li>
         </ul>
         
-        <p style={{ color: '#4e5461' }}>东方树叶抖音本地推全案，依托同城流量渠道打造国风茶饮数字化传播语言，标准化广告投放与直播执行流程，精准覆盖本地潜在客群，实现新品快速种草、线下门店客流提升的营销目标。</p>
+        <p style={{ color: '#4e5461' }}>东方树叶抖音本地推全案，依托同城流量渠道打造国风茶饮数字化传播语言，标准化广告投放与直播执行流程，精准覆盖本地潜在客群，实现快速种草、线下门店客流提升的营销目标。</p>
       </div>
     ),
     image: 'https://free.picui.cn/free/20260625/6202f5cd060bca4726fc6acd35b6231c.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
